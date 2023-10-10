@@ -1,4 +1,4 @@
-load('../DATA_BIG.mat')
+load('../DATA.mat')
 load('/Users/md5050/Desktop/RA/01_Experiments/(2022) Aperiodic FF/JOCN ANALYSIS/FF.mat');
 ix = ~[EXP.exclude]';
 TH_web = [EXP.threshold]';
