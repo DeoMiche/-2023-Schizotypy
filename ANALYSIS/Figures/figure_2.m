@@ -1,4 +1,4 @@
-load('../DATA_BIG.mat')
+load('../DATA.mat')
 
 ix = ~[EXP.exclude]';
 TH = [EXP.threshold]';
